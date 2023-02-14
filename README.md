@@ -5,8 +5,8 @@ As a new anaylist I am responsibile for overseeing the New York Citi Bike progra
 The bike program has a ton of monthly data - but we have not created a true dashboard to view consistent informaiton (that is my goal for my second project as the analysist). My first project is to create a Tableau Story to show the success and potential opporuntities to the city officials.  
 
 ### Programs Used
-- Python was used to combine my monthly data sets
-- Tableau to create my story board
+- Python was used to combine my monthly data sets, adjusting column titles, dropping incomplete data sets; and ensuring accuracy of the data.
+- Tableau to create my story board, and all of the analysis and visualizations needed for this project.
 
 ### Data Sets
 I had the opporuntity to pick which datasets I wanted to use.  At first I was going to use 2021 and 2022.  Then I decided to look specifically had June (the start of summer) to see what the differences are. I contimplated using a 5 year range, but settled on 3 years (2018, 2019, 2020) which was important as you had the covid epidemic during this time frame which may have adjusted bike usage.
@@ -31,4 +31,6 @@ My story can be found at
 https://public.tableau.com/app/profile/megan.blazevic/viz/Module18_16761491611430/NYCBikeProgram?publish=yes
 
 ## Analysis
-Analysis is done throughout the storyboard and within this read me. The analysis needs to be easy to read, as not everyone is used to working iwth this data on a daily basis. 
+Analysis is done throughout the storyboard and within this read me. The analysis needs to be easy to read, as not everyone is used to working with this data on a daily basis. 
+
+Additional analysis details are include in the story pages of the tableau assignment. Suggestions for next steps are given for the city officials to create their goals moving forward to ensure continued success of the New York City Bike program.
