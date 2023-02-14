@@ -11,6 +11,8 @@ The bike program has a ton of monthly data - but we have not created a true dash
 ### Data Sets
 I had the opporuntity to pick which datasets I wanted to use.  At first I was going to use 2021 and 2022.  Then I decided to look specifically had June (the start of summer) to see what the differences are. I contimplated using a 5 year range, but settled on 3 years (2018, 2019, 2020) which was important as you had the covid epidemic during this time frame which may have adjusted bike usage.
 
+As the data sets are so large I was unable to upload my csv files or my actual data sets into GitHub.
+
 ## Map and 
 Create a map to show where all the various bike stations are across New York City. The map has the median age demographic interlayed in the map detail. This will show how the new bike stations are trending in the younger age population. 
 
@@ -25,6 +27,8 @@ Using the story creation to tell the data story for the New York City Bike progr
 ![Story_4](https://user-images.githubusercontent.com/113635771/218623982-e12c9906-ad99-4b72-9869-484d25cdbaf4.png)
 ![Story_5](https://user-images.githubusercontent.com/113635771/218623987-0251762c-10a9-4b7c-9152-0a8a1b1c647c.png)
 
+My story can be found at
+https://public.tableau.com/app/profile/megan.blazevic/viz/Module18_16761491611430/NYCBikeProgram?publish=yes
 
 ## Analysis
 Analysis is done throughout the storyboard and within this read me. The analysis needs to be easy to read, as not everyone is used to working iwth this data on a daily basis. 
